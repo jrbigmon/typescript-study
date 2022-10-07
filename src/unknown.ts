@@ -24,3 +24,5 @@ variavelQualquerComUnknown = 'string qualquer'
 
 // Realizando validação
 if (typeof variavelQualquerComUnknown === 'number') console.log(variavelQualquerComUnknown + outraVariavelQualquer)
+
+export default 1

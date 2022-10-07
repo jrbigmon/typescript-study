@@ -23,3 +23,5 @@ console.log('Na posição "BRANCO" valor: ' + Cores.BRANCO)
 console.log('Na posição "[3]" valor: ' + Cores[3])
 console.log('Enum completo')
 console.log(Cores)
+
+export default 1

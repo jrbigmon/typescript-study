@@ -36,3 +36,5 @@ function constructorArrayCar([name, year, motor]: [string, number, number]) {
 }
 // const carro1 = constructorArrayCar(['Voyage', 2000, 1.5])
 // console.log(carro1) //['Voyage', 2000, 1.5]
+
+export default 1

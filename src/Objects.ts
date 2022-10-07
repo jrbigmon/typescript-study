@@ -28,3 +28,5 @@ const pessoa3 = {
 console.log(pessoa1)
 console.log(pessoa2)
 console.log(pessoa3)
+
+export default 1

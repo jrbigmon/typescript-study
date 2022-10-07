@@ -23,3 +23,5 @@ function propertyValidate({ email, password, postalCode }: User) {
 }
 const newUser = createUser({ email: 'Vagner@mail.com', password: '123456', postalCode: '12345678', heigth: 187 })
 console.log(newUser)
+
+export default 1
